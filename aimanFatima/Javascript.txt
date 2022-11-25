@@ -1,0 +1,12 @@
+
+rules for variable names 
+valid variables :
+1.lowercae(a-z)
+2.uppercase(A-Z)
+3.numbers(0-9)
+symbols(_,$)
+invalid variables:
+keywords or reservered words 
+whitespace
+cannot start with a number
+special character
